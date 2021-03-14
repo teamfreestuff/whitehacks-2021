@@ -8,14 +8,14 @@
 
 Let's visit the CSA website and pick out an arbitrary file (`csa-logo.jpg`).
 
-![CSA website sources](/images/Sweet Tooth_1.png)
+![CSA website sources](/images/Sweet%20Tooth_1.png)
 
 If we try searching for the **filename** on GitHub and sort by **Recently Indexed**, we find `chachabooboo/csawebsite`. The username resembles the dessert [bubur cha cha](https://en.wikipedia.org/wiki/Bubur_cha_cha).
 
-![GitHub search](/images/Sweet Tooth_2.png)
+![GitHub search](/images/Sweet%20Tooth_2.png)
 
 If we visit the profile page, we find the flag.
 
-![GitHub search](/images/Sweet Tooth_3.png)
+![GitHub search](/images/Sweet%20Tooth_3.png)
 
 `WH2021{051N4_15_LOV3}`
