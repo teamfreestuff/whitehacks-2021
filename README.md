@@ -29,17 +29,17 @@ Only solved challenges that deserve a writeup are listed.
 - [ ] BabyPHP
 
 ### MISCELLANEOUS
-- [ ] More than Meets the Eye?
-- [ ] SnakeShell
+- [X] More than Meets the Eye?
+- [X] SnakeShell
 
 ### FORENSICS
 - [ ] Is it really?
 - [ ] Can you handle these files?
 
 ### GOVTECH
-- [ ] An unhappy employee
+- [X] An unhappy employee
 - [ ] Bug Bug Infestation
 
 ### CSA
 - [X] Sweet Tooth
-- [ ] Bad Code Practices :(
+- [X] Bad Code Practices :(
