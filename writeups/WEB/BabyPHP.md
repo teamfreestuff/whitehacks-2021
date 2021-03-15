@@ -7,3 +7,5 @@
 > Note: You DO NOT need any form of brute force or directory busting to complete this challenge!"
 
 **TO BE DONE**
+
+`WH2021{H0p3d_u_h4d_f4n_juGGl15g}`

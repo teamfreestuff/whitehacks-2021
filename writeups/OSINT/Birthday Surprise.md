@@ -40,7 +40,7 @@ With more googling, we are able to find his Instagram account under the same use
 
 ![Instagram profile](/images/Birthday%20Surprise_4.png)
 
-- In his 1st post, he reveals that he lives a few MRT stops away from *Gardens by the Bay*.
+- In his 1st post, he reveals that he lives a few MRT stops away from **Gardens by the Bay**.
 - If you google `singapore pools "B1-37"` from the image in the 2nd post, we can determine that the image was taken at **Sim Lim Square**.
 - Under the comments of his 2nd post, it is revealed that his house has a **bakkwa store** alongside a **bakery** directly below.
 - His 3rd post is of **Fu Lu Shou Complex**.

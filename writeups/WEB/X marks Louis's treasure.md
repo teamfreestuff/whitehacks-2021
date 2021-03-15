@@ -5,3 +5,5 @@
 > chals.whitehacks.ctf.sg:50101
 
 **TO BE DONE**
+
+`WH2021{th3_sup3r_s3cr3t_tr34sur3!}`

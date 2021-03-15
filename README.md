@@ -24,7 +24,7 @@ Only solved challenges that deserve a writeup are listed.
 - [X] Birthday Surprise C - No Place Like Home
 
 ### WEB
-- [ ] infant web
+- [X] infant web
 - [ ] X marks Louis's treasure
 - [ ] BabyPHP
 
@@ -34,7 +34,7 @@ Only solved challenges that deserve a writeup are listed.
 
 ### FORENSICS
 - [X] Is it really?
-- [ ] Can you handle these files?
+- [X] Can you handle these files?
 
 ### GOVTECH
 - [X] An unhappy employee
