@@ -4,4 +4,14 @@
 >
 > Investigate this pcap file and find evidence of a possible BugBug Malware Infection?
 
-**TO BE DONE**
+If we look through the pcap file, it seems like there are some files being transferred over `HTTP`. We can filter them out using `File > Export Objects > HTTP`.
+
+![HTTP object list](/images/Bug%20Bug%20Infestation_1.png)
+
+When we look at the packets in `PDF_1.pdf`, we notice something peculiar at the end of the file...
+
+![packets](/images/Bug%20Bug%20Infestation_2.png)
+
+At the end of every `PDF` file, there appears to be some fragments of a `PNG` file in between `%BUG` delimiters. When we reconstruct the `PNG` file, we are able to get an image of the flag.
+
+`WH2021{B()GBuGL1veSOn}`

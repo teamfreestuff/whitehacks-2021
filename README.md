@@ -14,8 +14,8 @@ Compiled by `eidooheerfmaet`, comprising:
 Only solved challenges that deserve a writeup are listed.
 
 ### PWN
-- [ ] Piggy_Bank
-- [ ] Piggy_Bank_Revenge
+- [X] Piggy_Bank
+- [X] Piggy_Bank_Revenge
 - [ ] Puddi Puddi
 
 ### OSINT
@@ -33,12 +33,12 @@ Only solved challenges that deserve a writeup are listed.
 - [X] SnakeShell
 
 ### FORENSICS
-- [ ] Is it really?
+- [X] Is it really?
 - [ ] Can you handle these files?
 
 ### GOVTECH
 - [X] An unhappy employee
-- [ ] Bug Bug Infestation
+- [X] Bug Bug Infestation
 
 ### CSA
 - [X] Sweet Tooth
