@@ -100,6 +100,6 @@ I see you have found me............
 
 If we visit [https://imgur.com/a/pRWCNyo](https://imgur.com/a/pRWCNyo), we find the flag.
 
-![imgur image](/images/Can%20you%20handle%20these%20files%3F_1.png)
+![imgur image](/images/can-you-handle-these-files-1.png)
 
 `WH2021{iSEEuHANDLEDthisWELL}`

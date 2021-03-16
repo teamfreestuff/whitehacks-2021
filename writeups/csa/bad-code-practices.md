@@ -6,15 +6,15 @@ Previously in `Sweet Tooth`, we found the attacker's GitHub profile ([@chachaboo
 
 In one of the commits, there is an odd quote, followed by some text resembling a flag.
 
-![git diff](/images/Bad%20Code%20Practices%20%3A%28_1.png)
+![git diff](/images/bad-code-practices-1.png)
 
 In the other commits, there appear to be portions of a flag that can be found by taking the difference.
 
-![git diff](/images/Bad%20Code%20Practices%20%3A%28_2.png)
+![git diff](/images/bad-code-practices-2.png)
 
 Our suspicions are confirmed by a comment in one of the commits.
 
-![git diff](/images/Bad%20Code%20Practices%20%3A%28_3.png)
+![git diff](/images/bad-code-practices-3.png)
 
 If we record down all of the portions of the flag found, we get the following:
 ```

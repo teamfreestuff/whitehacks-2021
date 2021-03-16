@@ -6,11 +6,11 @@
 
 After a simple search on Twitter for "Andrew Yeoh Boon How", we are able to find his account.
 
-![Twitter search](/images/Birthday%20Surprise_1.png)
+![Twitter search](/images/birthday-surprise-1.png)
 
 From his profile page, we are able to determine his birthdate.
 
-![Twitter profile](/images/Birthday%20Surprise_2.png)
+![Twitter profile](/images/birthday-surprise-2.png)
 
 `WH2021{18091997}`
 
@@ -24,7 +24,7 @@ From his profile page, we are able to determine his birthdate.
 
 If we google around, we are able to find his TikTok account under the same username.
 
-![TikTok video](/images/Birthday%20Surprise_3.png)
+![TikTok video](/images/birthday-surprise-3.png)
 
 `WH2021{Ch0c0_L4V4_1s_b3$t}`
 
@@ -38,7 +38,7 @@ If we google around, we are able to find his TikTok account under the same usern
 
 With more googling, we are able to find his Instagram account under the same username.
 
-![Instagram profile](/images/Birthday%20Surprise_4.png)
+![Instagram profile](/images/birthday-surprise-4.png)
 
 - In his 1st post, he reveals that he lives a few MRT stops away from **Gardens by the Bay**.
 - If you google `singapore pools "B1-37"` from the image in the 2nd post, we can determine that the image was taken at **Sim Lim Square**.
@@ -47,7 +47,7 @@ With more googling, we are able to find his Instagram account under the same use
 
 If we google for bakkwa stores around the area, we find Kim Hock Guan at **The Bencoolen**.
 
-![Kim Hock Guan](/images/Birthday%20Surprise_5.png)
+![Kim Hock Guan](/images/birthday-surprise-5.png)
 
 If we try the corresponding postal code, it works!
 

@@ -6,11 +6,11 @@
 
 If we look through the pcap file, it seems like there are some files being transferred over `HTTP`. We can filter them out using `File > Export Objects > HTTP`.
 
-![HTTP object list](/images/Bug%20Bug%20Infestation_1.png)
+![HTTP object list](/images/bug-bug-infestation-1.png)
 
 When we look at the packets in `PDF_1.pdf`, we notice something peculiar at the end of the file...
 
-![packets](/images/Bug%20Bug%20Infestation_2.png)
+![packets](/images/bug-bug-infestation-2.png)
 
 At the end of every `PDF` file, there appears to be some fragments of a `PNG` file in between `%BUG` delimiters. When we reconstruct the `PNG` file, we are able to get an image of the flag.
 
