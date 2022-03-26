@@ -1,5 +1,3 @@
-**WRITEUPS STILL BEING ADDED**
-
 # ![whitehacks logo](/images/whitehacks-logo.png)
 
 Challenges and writeups for Whitehacks 2021 hosted by the School of Computing and Information Systems, Singapore Management University.
